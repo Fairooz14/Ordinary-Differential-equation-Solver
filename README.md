@@ -41,7 +41,7 @@ Ordinary-Differential-equation-Solver/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/fairooz14/Ordinary-Differential-equation-Solver.git
+   git clone https://github.com/Fairooz14/Ordinary-Differential-equation-Solver.git
    cd Ordinary-Differential-equation-Solver
    ```
 2. Install the required Python packages:
